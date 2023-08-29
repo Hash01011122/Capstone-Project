@@ -1,2 +1,2 @@
 # Capstone-Project
-CEX(Centralized Exchange blockchain project)
+CEX(Centralized Exchange Blockchain project) Using Solidity, Hardhat, Javascript, React.js, Node.js
